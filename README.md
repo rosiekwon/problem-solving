@@ -33,8 +33,8 @@
    * Each of the T subsequent lines contains an integer, n, to be tested for primality.
 
 * Constraints
-   * 1 <= T <= 30
-   * 1 <= n <= $2*10^{9}$
+   * $1 \le T \le 30$
+   * $1 \le n \le 2*10^{9}$
 
 * Output Format
    * For each test case, print whether n is *prime* or *non-prime* on a new line.
