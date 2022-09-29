@@ -1,0 +1,13 @@
+N = int(input())
+for item in range(N):
+    a =0
+    numinput = int(input())
+    i = 2
+    while i*i<= numinput:
+        if numinput % i == 0:
+            a = 1
+        i +=1
+    if a ==1:
+        print('Not prime')
+    else:
+        print('Prime')
