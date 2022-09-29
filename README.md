@@ -21,3 +21,20 @@
 
   * Print an alphabetically-ordered list of first names for every user with a gmail account. Each name must be printed on a new line.
 
+---------
+
+## 2. Running Time and Complexity
+* Task
+   * A prime is a natural number greater than that has no positive divisors other than  and itself. Given a number,*n*, determine and print whether it is prime or non-prime.
+   
+   
+* Input Format
+   * The first line contains an integer, , the number of test cases.
+   * Each of the  subsequent lines contains an integer, , to be tested for primality.
+
+* Constraints
+   * 1 <= T <= 30
+   * 1 <= n <= 2*10^{9}
+
+* Output Format
+   * For each test case, print whether n is *prime* or *non-prime* on a new line.
